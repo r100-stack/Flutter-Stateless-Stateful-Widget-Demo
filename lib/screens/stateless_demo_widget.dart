@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_architecture_demo/constants/constants.dart';
+import 'package:stateless_stateful_widgets_demo/constants/constants.dart';
 
 class StatelessDemoWidget extends StatelessWidget {
   final int index;

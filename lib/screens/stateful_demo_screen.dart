@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_architecture_demo/screens/stateless_demo_widget.dart';
+import 'package:stateless_stateful_widgets_demo/screens/stateless_demo_widget.dart';
 
 class StatefulDemoScreen extends StatefulWidget {
   final List<Color> colors = [
